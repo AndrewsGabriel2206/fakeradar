@@ -1,0 +1,6 @@
+Modelo,Acuracia
+Gradient Boosting,99.43%
+Random Forest,99.41%
+SVM Linear,99.40%
+Regressao Logistica,98.92%
+Naive Bayes,95.87%
