@@ -9,4 +9,7 @@ streamlit
 requests
 beautifulsoup4
 ddgs
-sqlalchemy
+transformers
+torch
+sentencepiece
+scipy
